@@ -1,0 +1,10 @@
+- slug: life
+  name: Life
+#  color: '#2F92C8'
+  
+- slug: works
+  name: Works
+#  color: '#2F92C8'
+
+- slug: other
+  name: Other
