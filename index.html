@@ -43,14 +43,14 @@ layout: default
 	</div>
 
 	<div class="wp-pagenavi">
-	    <span class='pages'> 현 {{ paginator.page }} / 총 {{ paginator.total_pages }} </span>
+	    <span class='pages'>  {{ paginator.page }} {{ paginator.total_pages }} </span>
 
 	    {% if paginator.previous_page %}
 	    	<a class="previouspostslink" rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" > « </a>
 	    {% endif %}
 
 	      {% if paginator.page == 1 %}
-	        <span class="current">중 1</span>
+	        <span class="current"> 1</span>
 	      {% else %}
 	        <a class="page larger" href="/">?</a>
 	      {% endif %}
