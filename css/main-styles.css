@@ -37,6 +37,33 @@ article, aside, footer, header, hgroup, nav, section { display: block; }
 	dd	{ margin-left: 1.5em; }
 	blockquote p { padding-bottom: 0px; }
 	embed, iframe, object, video { max-width: 100%; }
+	pre {
+	    font-size: 90%;
+	    line-height: 1.2em;
+	    font-family: "Courier 10 Pitch", Courier, monospace; 
+	    white-space: pre; 
+	    white-space: pre-wrap; 
+	    white-space: -moz-pre-wrap; 
+	    white-space: -o-pre-wrap; 
+
+	    height:1%;
+	    width: auto;
+	    display: block;
+	    clear: both;
+	    color: #555555;
+	    padding: 1em 1em;
+	    margin: auto 40px auto 40px;
+	    background: #f4f4f4;
+	    border: solid 1px #e1e1e1} 
+	code { 
+	    font-size: 90%;
+	    line-height: 1.2em;
+	    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+
+	    display: inline; 
+	    color: #555555;
+	    padding: 1em 1em;
+	    background: #f4f4f4;}
 
 	/* Headers */
 	h1, h2, h3, h4, h5, h6 { color: #333; padding-bottom: 10px; line-height: 1em; font-weight: 500; }

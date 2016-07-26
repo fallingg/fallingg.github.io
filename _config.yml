@@ -43,7 +43,7 @@ theme:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: "fallingg"
   katex: true # Enable if using math markup
 
   # Localization strings
@@ -74,7 +74,17 @@ sechby:
 
 # BUILD SETTINGS
 markdown: kramdown
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
 highlighter: rouge
+
+
 sass:
   sass_dir: _sass
   style: :compressed
