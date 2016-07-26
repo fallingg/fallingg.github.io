@@ -128,6 +128,23 @@ blockquote{font-size:1.25em;line-height:1.25;padding:1% 2%}
 .posts li a:hover{text-decoration:underline}
 .posts li .date{color:gray;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:300;font-size:.8em}
 .posts li h3{margin:0 0 .5em}
+
+.videowrapper {
+position: relative;
+padding-bottom: 56.25%; /* 16:9 비율인 경우 */
+/* padding-bottom값은 4:3 비율인 경우 75%로 설정합니다 */
+padding-top: 25px;
+height: 0;
+}
+
+.videowrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
 @media only screen and (min-width: 800px){
 	.content{padding-top:0;position:relative;z-index:1}
 	.content:after{z-index:-1;background:white;content:"";display:block;width:100%;height:5em;position:absolute;top:-2em;left:0;-webkit-transform:skewY(-2deg);-ms-transform:skewY(-2deg);transform:skewY(-2deg);-webkit-transform-origin:bottom left;-ms-transform-origin:bottom left;transform-origin:bottom left}

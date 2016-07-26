@@ -64,9 +64,11 @@ tags: [bullshit]
 ## It ain't over till it's over.
 
 <br>
+<div class="videowrapper">
 <p align="middle">
 <iframe width="720" height="480" src="https://www.youtube.com/embed/TmENMZFUU_0" frameborder="0" allowfullscreen></iframe>
 </p>
+</div>
 <br>
 &nbsp;
 꽤나 익숙한 멜로디로 시작되는 이 노래의 정체에 대해 비교적 최근에 알게 되었다. (야구를 좋아하는 사람이 아니더라도 다들 한 번 쯤은 들어봤을) "끝날 때 까지는 끝난 게 아니다."라는 요기 베라의 유명한 말을 제목으로 삼고 있는 이 노래는 안타깝게도(?) 베이비를 찾는 사랑노래지만, 라디오를 듣다 흘러나온 노래보다는 노래 제목 자체에 꽂혀서 요즘 모든 이야기를 다 기-승-전-끝날 때 까지는 끝난게 아니다 로 마무리짓고 있다.
