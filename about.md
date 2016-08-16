@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: archive-taxonomy
+author_profile: true
 title: About
 permalink: /About/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
 nothing
