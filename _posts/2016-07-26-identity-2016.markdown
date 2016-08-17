@@ -3,7 +3,7 @@ layout: single
 title:  "It ain't over till it's over."
 date:   2016-07-26
 author: 몸마
-category: 뻘글
+category: LivingPoint
 tags: [identity]
 ---
 
