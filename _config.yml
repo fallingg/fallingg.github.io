@@ -11,41 +11,41 @@ title                    : "여름과 꿈과 밤의 모든 매력"
 title_separator          : "-"
 name                     : "몸과마음"
 description              : "논문 쓰기 싫어 만든 블로그"
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fallingg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "fallingg/fallingg.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : staticman # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : 5 # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+    shortname            : "fallingg" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+#   discourse:
+#     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#   facebook:
+#     # https://developers.facebook.com/docs/plugins/comments
+#     appid                :
+#     num_posts            : # 5 (default)
+#     colorscheme          : # "light" (default), "dark"
+# staticman:
+#   allowedFields          : ['name', 'email', 'url', 'message']
+#   branch                 : "master" # "master", "gh-pages"
+#   commitMessage          : "New comment."
+#   filename               : comment-{@timestamp}
+#   format                 : "yml"
+#   moderation             : true
+#   path                   : "_data/comments/{options.slug}"
+#   requiredFields         : ['name', 'email', 'message']
+#   transforms:
+#     email                : "md5"
+#   generatedFields:
+#     date:
+#       type               : "date"
+#       options:
+#         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+# atom_feed:
+#   path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -80,7 +80,7 @@ author:
   name             : "몸과마음"
   avatar           : "momma-album.jpg"
   bio              : "대학 시절 자주 듣던 밴드 이름과 앨범 커버를 그대로 훔쳐온 몰상식의 끝판왕"
-  location         : "서울, 대한민국"
+  location         : 
   email            :
   uri              :
   bitbucket        :
@@ -160,26 +160,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      # sidebar: 
-      #   - title: "Title"
-      #     image: http://placehold.it/350x250
-      #     image_alt: "image"
-      #     text: "Some text here."
-      #   - title: "Another Title"
-      #     text: "More text here."
-
 
 # Sass/SCSS
 sass:
@@ -209,6 +189,19 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 
 # Archives

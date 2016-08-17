@@ -4,7 +4,7 @@
   {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
   {% case site.comments.provider %}
   {% when "disqus" %}
-    <h4 class="page__comments-title">{{ comments_label }}</h4>
+    <h4 class="page__comments-title">{{ comments_label }}<br> (댓글을 달기 위해선 SNS 계정 로그인이 필요하지만, 로그인 후 댓글을 다셔도 SNS에는 별도의 글이 남겨지지 않습니다.)</h4>
     <section id="disqus_thread"></section>
   {% when "facebook" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
