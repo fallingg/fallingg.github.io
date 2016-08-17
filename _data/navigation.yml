@@ -10,8 +10,8 @@ main:
   - title: "Archive"
     url: "/year-archive/"
 
-  - title: "All"
-    url: "/posts/"
+  # - title: "All"
+  #   url: "/posts/"
 
   - title: "About"
     url: /about/
