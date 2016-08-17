@@ -3,8 +3,8 @@ layout: single
 title:  "It ain't over till it's over."
 date:   2016-07-26
 author: 몸마
-category: LivingPoint
-tags: [identity]
+category: 리빙 포인트
+tags: [정체성, 아이덴티티, 잡생각]
 ---
 
 
