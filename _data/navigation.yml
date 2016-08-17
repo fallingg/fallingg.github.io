@@ -2,13 +2,16 @@
 main:
 
   - title: "Categories"
-    url: "/categories"
+    url: "/categories/"
 
   - title: "Tags"
-    url: "/tags"
+    url: "/tags/"
 
   - title: "Archive"
-    url: "/year-archive"
+    url: "/year-archive/"
+
+  - title: "All"
+    url: "/posts/"
 
   - title: "About"
-    url: /about
+    url: /about/
