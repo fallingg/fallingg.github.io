@@ -78,10 +78,10 @@ analytics:
 # Site Author
 author:
   name             : "몸과마음"
-  avatar           : "momma-album.jpg"
-  bio              : "대학 시절 자주 듣던 밴드 이름과 앨범 커버를 그대로 훔쳐온 몰상식의 끝판왕"
-  location         : 
-  email            :
+  avatar           : "profile.jpg"
+  bio              : "대학 시절 자주 듣던 밴드 이름을 그대로 훔쳐온 몰상식의 끝판왕"
+  location         : "SEOUL, KOREA"
+  email            : "fallingg@me.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "fallingg_"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -171,7 +171,7 @@ sass:
 permalink: /posts/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -198,7 +198,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
