@@ -2,7 +2,7 @@
 title:  "지킬 테마 등 소소한 업데이트"
 date:   2016-08-17
 category: 블로그
-tags: [지킬]
+tags: [지킬, Minimal_Mistakes, 테마]
 ---
 
 
