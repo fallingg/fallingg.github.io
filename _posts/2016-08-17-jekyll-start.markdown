@@ -23,6 +23,7 @@ tags: [지킬, Minimal_Mistakes, 테마]
 ![image-center](/images/2016-08-17-01.jpg){: .align-center}
 
 지금 적용해둔 테마는 (알고보니 낙엽 사진이었지만)무슨 햄버거 사진인가 싶어서 눌렀다가 맘에 들어서 가져왔다. ([Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/))
+{: .text-justify}
 
 ![image-center](/images/2016-08-17-02.jpg){: .align-center}
 
