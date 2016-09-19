@@ -17,12 +17,13 @@ tags: [아오모리, 히로사키, 일본, 여행]
 <br>
 
 ![image-center](/images/2016-08-21-01.jpg){: .align-center}
-
 <figcaption>여름까지만 해도 항공사 직원이 근무했었던 것 같은데... 기술의 발전이 일자리를 수탈한 듯 </figcaption>
 {: .text-center}
+
 <br>
 
 10시 언저리 비행기였는데, 아침 8시부터 빨빨거리면서 여기저기 돌아다녔다. 환전한 돈도 찾으러 갔고 신청해둔 포켓 와이파이도 찾으러 갔다. 아침도 못먹었으니 밥도 먹어야겠고, 큰맘먹고 질러버린 인터넷 면세점 물품들도 찾으러 가야 했다. 다행히도 수화물에 이상한 게 있다는 방송이나 연락은 오지 않았고, 면세 물품을 찾는 데에도 오랜 시간이 소요되지는 않았다. 게이트가 멀어서 힘들었을 뿐.
+
 {: .text-justify}
 
 <br>
@@ -206,7 +207,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-13.jpg){: .align-center}
+![image-center](/images/2016-08-21-14.jpg){: .align-center}
 
 <figcaption> 문제의 그 라면. 좀 짜긴 했는데 맛있음. </figcaption>
 {: .text-center}
