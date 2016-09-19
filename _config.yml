@@ -197,11 +197,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      author_profile: True
+      read_time: False
+      comments: True
+      share: False
+      related: True
 
 
 # Archives
