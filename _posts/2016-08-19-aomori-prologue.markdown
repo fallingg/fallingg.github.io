@@ -60,7 +60,7 @@ tags: [아오모리, 일본, 여행]
 
 
 <br>
-![image-center](/images/2016-08-19-02.jpg){: .align-center}
+![image-center](/images/2016-08-19/02.jpg){: .align-center}
 <figcaption>오늘(2016. 8. 19) 기준으로도 아직 스케줄 변동은 없는 것 같다. (자료 : 대한항공 홈페이지)</figcaption>
 {: .text-center}
 <br>
@@ -72,7 +72,7 @@ tags: [아오모리, 일본, 여행]
 {: .text-justify}
 
 <br>
-![image-center](/images/2016-08-19-03.jpg){: .align-center}
+![image-center](/images/2016-08-19/03.jpg){: .align-center}
 <figcaption>아오모리현 지도. 빨간 점들은 계획시 고려했던 목적지들을 나타낸다. (자료 : 구글 지도)</figcaption>
 {: .text-center}
 <br>
@@ -89,7 +89,7 @@ tags: [아오모리, 일본, 여행]
 - 5일차 : 아오모리-귀국 (파랑)
 
 <br>
-![image-center](/images/2016-08-19-04.jpg){: .align-center}
+![image-center](/images/2016-08-19/04.jpg){: .align-center}
 <figcaption>조금 확대해서 최종적으로 갔던 곳들의 경로를(...) 표시해봤다. (자료 : 구글 지도)</figcaption>
 {: .text-center}
 <br>

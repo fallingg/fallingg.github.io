@@ -16,7 +16,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-01.jpg){: .align-center}
+![image-center](/images/2016-08-21/01.jpg){: .align-center}
 <figcaption>여름까지만 해도 항공사 직원이 근무했었던 것 같은데... 기술의 발전이 일자리를 수탈한 듯 </figcaption>
 {: .text-center}
 
@@ -28,7 +28,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-02.jpg){: .align-center}
+![image-center](/images/2016-08-21/02.jpg){: .align-center}
 <figcaption>탄다 비행기! 간다 아오모리!</figcaption>
 {: .text-center}
 <br>
@@ -37,7 +37,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-03.jpg){: .align-center}
+![image-center](/images/2016-08-21/03.jpg){: .align-center}
 <figcaption>맛은 잘 기억나지 않는 걸 보니 좋지도 나쁘지도 않았던 듯</figcaption>
 {: .text-center}
 <br>
@@ -47,7 +47,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-04.jpg){: .align-center}
+![image-center](/images/2016-08-21/04.jpg){: .align-center}
 <figcaption>이 두 시간 남짓의 시간도 지겨워 죽겠던데, 대체 어떻게 17시간씩 비행기를 타죠?</figcaption>
 {: .text-center}
 <br>
@@ -55,7 +55,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 ## 아오모리 공항에서 히로사키로
 
 
-![image-center](/images/2016-08-21-05.jpg){: .align-center}
+![image-center](/images/2016-08-21/05.jpg){: .align-center}
 
 <br>
 
@@ -67,10 +67,10 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-06-1.jpg){: .align-center}
+![image-center](/images/2016-08-21/06-1.jpg){: .align-center}
 
 <br>
-![image-center](/images/2016-08-21-06-2.jpg){: .align-center}
+![image-center](/images/2016-08-21/06-2.jpg){: .align-center}
 
 <figcaption>만년설에 뒤덮인 산이 멀리 보인다.</figcaption>
 {: .text-center}
@@ -82,7 +82,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-06-3.jpg){: .align-center}
+![image-center](/images/2016-08-21/06-3.jpg){: .align-center}
 
 
 
@@ -94,7 +94,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-07-1.jpg){: .align-center}
+![image-center](/images/2016-08-21/07-1.jpg){: .align-center}
 <figcaption>기회가 되면 나중에 하나씩 다 먹어보고 싶다.</figcaption>
 {: .text-center}
 
@@ -105,7 +105,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-07-2.jpg){: .align-center}
+![image-center](/images/2016-08-21/07-2.jpg){: .align-center}
 <figcaption>혜자!</figcaption>
 {: .text-center}
 
@@ -118,7 +118,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 ## 히로사키 성과 스타벅스 구경
 
-![image-center](/images/2016-08-21-08.jpg){: .align-center}
+![image-center](/images/2016-08-21/08.jpg){: .align-center}
 
 히로사키시는 그리 큰 규모의 도시는 아니었다. 웬만한 관광지는 걸어서 다 다닐 수 있을 정도(물론 우리 기준이다)로, 밥을 간단히 먹었으니 소화도 시킬겸 구경도 할 겸 히로사키성까지 걸어가보기로 했다. 구글 지도로 찍어보니 도보 40분 정도로, 거리는 크게 멀지 않았다. 
 {: .text-justify}
@@ -128,7 +128,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-09-2.jpg){: .align-center}
+![image-center](/images/2016-08-21/09-2.jpg){: .align-center}
 <figcaption>히로사키 성. 뭔가 지반을 단단히 하는 공사? 혹은 성 자체를 옮기는 공사? 아무튼 공사중. </figcaption>
 {: .text-center}
 
@@ -142,7 +142,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-10.jpg){: .align-center}
+![image-center](/images/2016-08-21/10.jpg){: .align-center}
 <figcaption>시청 근처의 스타벅스. 예쁘긴 하다. </figcaption>
 {: .text-center}
 
@@ -154,7 +154,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 ## 저녁은 왕김밥과 초밥
 
-![image-center](/images/2016-08-21-11.jpg){: .align-center}
+![image-center](/images/2016-08-21/11.jpg){: .align-center}
 
 <figcaption> 밥집! </figcaption>
 {: .text-center}
@@ -166,12 +166,12 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-12-1.jpg){: .align-center}
+![image-center](/images/2016-08-21/12-1.jpg){: .align-center}
 
 <br>
 
 
-![image-center](/images/2016-08-21-12-2.jpg){: .align-center}
+![image-center](/images/2016-08-21/12-2.jpg){: .align-center}
 <figcaption>초밥과 왕김밥 </figcaption>
 {: .text-center}
 
@@ -192,7 +192,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-13.jpg){: .align-center}
+![image-center](/images/2016-08-21/13.jpg){: .align-center}
 
 <figcaption> 인터스텔라에 나오는 도킹 스테이션인 줄 </figcaption>
 {: .text-center}
@@ -207,7 +207,7 @@ tags: [아오모리, 히로사키, 일본, 여행]
 
 <br>
 
-![image-center](/images/2016-08-21-14.jpg){: .align-center}
+![image-center](/images/2016-08-21/14.jpg){: .align-center}
 
 <figcaption> 문제의 그 라면. 좀 짜긴 했는데 맛있음. </figcaption>
 {: .text-center}

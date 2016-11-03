@@ -20,12 +20,12 @@ tags: [지킬, Minimal_Mistakes, 테마]
 뭐 어짜피 지킬 테마 페이지에서 훔쳐다 쓴건 마찬가지지만, 그래도 직접 뜯어보면서 '아 이게 어떤 부분에 대한 거구나' 하는 얕은 이해도는 조금 생겼다. 기존에 쓰던 건 [Fengzhichu Theme](https://fengzhichu.com/fengzhichu-theme/) 였는데, 뭔가 다양한 기능이 복작복작한데다가 내가 쓰기 과할 정도로 많은 것들이 담겨있는 기분이었다. 물론 그 테마를 가지고 컬러도 바꿔보고, 이미지도 바꿔보고 했었는데 과감히 버렸다. 한 마디로 그냥 맘에 안들었었지 싶다.
 {: .text-justify}
 
-![image-center](/images/2016-08-17-01.jpg){: .align-center}
+![image-center](/images/2016-08-17/01.jpg){: .align-center}
 
 지금 적용해둔 테마는 (알고보니 낙엽 사진이었지만)무슨 햄버거 사진인가 싶어서 눌렀다가 맘에 들어서 가져왔다. ([Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/))
 {: .text-justify}
 
-![image-center](/images/2016-08-17-02.jpg){: .align-center}
+![image-center](/images/2016-08-17/02.jpg){: .align-center}
 
 
 이 역시도 이것저것 뜯어보느라 상당한 시간(이틀)을 소요하였으나, 뭐 애초에 잘 되어 있어서 크게 바꾼 건 없다. 
