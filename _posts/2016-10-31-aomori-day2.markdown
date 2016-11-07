@@ -174,7 +174,7 @@ tags: [아오모리, 히로사키, 아오니온천, 일본, 여행]
 {: .text-center}
 <br>
 
-![image-center](/images/2016-10-31/19.jpg){: .align-center}
+![image-center](/images/2016-10-31/19.JPG){: .align-center}
 <figcaption>바깥 풍경. 어딜 쳐다봐도 웬만하면 이런 풍경.</figcaption>
 {: .text-center}
 <br>
@@ -205,7 +205,7 @@ tags: [아오모리, 히로사키, 아오니온천, 일본, 여행]
 {: .text-center}
 <br>
 
-![image-center](/images/2016-10-31/23.jpg){: .align-center}
+![image-center](/images/2016-10-31/23.JPG){: .align-center}
 <figcaption>아오니 아재의 뒷모습. 추측컨데 온천 주인 할아버지의 아들 혹은 사위임이 분명하다.</figcaption>
 {: .text-center}
 <br>
