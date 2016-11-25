@@ -8,8 +8,6 @@ tags: [python, sns, barplot, matplotlib]
 엑셀은 정말 짱이다. 피벗 테이블 하나 잘 만들어 놓으면 마우스 클릭 몇 번으로 그래프가 시시각각 변하게 만들 수 있고, 나름 보기 정갈하게(예쁜 수준까진 아니지만) 만드는 데에도 큰 시간이나 노력이 들지 않는다. 그런데 최근 3차원 누적 막대그래프를 그릴 일이 생겨서 이것저것 변형해보니, 3차원 막대 그래프는 지원하는데 '누적' 막대 그래프는 지원하지 않는 것 같더라. 그래서 예전 기억을 더듬어가며, 구글링해가며 파이썬으로 그래프를 그려봤다. 같은 값이면 다홍치마라고, 하는김에 색깔도 디자인도 좀 예쁘게 만들자 하는 생각으로 seaborn까지 활용하였다.
 {: .text-justify}
 
-<br>
-
 ## Libraries
 
 
@@ -40,8 +38,6 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 # for 3D barplot
 ```
-
-<br>
 
 ## Boxplot
 
@@ -145,8 +141,6 @@ plt.show()
 
 그려보니 아웃라이어가 넘나 심한 것. 그래도 이제와 예제를 바꾸긴 귀찮으니까 그냥 이런 식으로 그리면 된다는 걸 알아두자.
 {: .text-justify}
-
-<br>
 
 ## Regression Plot
 
@@ -269,8 +263,6 @@ plt.show()
 
 꽤나 잘 그려진 것 같다~~(만족)~~
 {: .text-justify}
-
-<br>
 
 ## 3D Stacked Barplot
 
