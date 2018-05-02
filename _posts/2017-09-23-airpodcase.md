@@ -10,7 +10,7 @@ tags: [에어팟, 에어팟케이스, 돈낭비, 사치, 우발적소비]
 
 
 
-![jpg](/images/salary-lupine/2017-09-23-01.jpg){: .align-center}
+![jpg](/images/salary-lupine/2017-09-23-1.jpg){: .align-center}
 
 <figcaption>응 이게 8만원이야...</figcaption>
 {: .text-center}
