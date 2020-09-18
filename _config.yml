@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "여름과 꿈과 밤의 모든 매력"
 title_separator          : "-"
 name                     : "fallingg"
-description              : "논문 쓰기 싫어 만든 블로그"
+description              : "이 쯤 되면 어디로 가는지 잘 모르겠음"
 url                      : "https://fallingg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fallingg/fallingg.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "fallingg"
   avatar           : "profile.jpg"
-  bio              : "가수가 노래 제목 따라가는 것처럼 아이디를 따라 계속 떨어지고 있는 프로나락러"
+  bio              : "이 쯤 되면 어디로 가는지 모르겠음"
   location         : "SEOUL, KOREA"
   email            : "fallingg@me.com"
   uri              :
@@ -92,7 +92,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "fallingg_"
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
